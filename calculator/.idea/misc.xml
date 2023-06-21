@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/einsk/Desktop/Kadai03_ih13b_17/Dentaku0304_ih13b_17/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/einsk/Desktop/Kadai03_ih13b_17/Dentaku0304_ih13b_17/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2985" />
+        <entry key="..\:/Users/einsk/Desktop/Kadai04_ih13b_17/Dentaku0304_ih13b_17/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/hal/ST31/Dentaku0304_ih13b_17/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/hal/ST31/Kadai04_ih13b_17/Dentaku0304_ih13b_17/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
